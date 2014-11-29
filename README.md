@@ -11,6 +11,18 @@ The Application can be demoed via:
 
 http://yearofmoo-articles.github.com/angularjs-testing-article/app/
 
+## Prerequisites
+
+The following steps should get you ready to run the tutorial without complications. If you have the following packages already, you can skip this section :
+
+ - node.js
+ - 
+
+First of all you are going to need `Node.js`.  Since you're probably experimenting indirect installation using `nvm` leaves you flexible later on to switch between different versions of `Node`.
+
+Visit the [`nvm` site on GitHub](https://github.com/creationix/nvm)
+
+, but install it directly
 ## Using the application
 
 Install grunt
